@@ -1,0 +1,241 @@
+html {
+    font-size: 16px;
+
+}
+
+body {
+    background-color: #FFF8F0;
+    color: #55206D;
+    font-family: Inter;
+    font-size: 16px;
+
+}
+
+h1 {
+
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-top: 10px;
+    color: #190D37;
+    margin-bottom: 30px;
+
+
+}
+
+#hero-section {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto 48 auto;
+}
+
+#text-section {
+    width: 50%;
+    padding: 32px 20px 32px 20px;
+}
+
+#img-section {
+    width: 50%;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+#mail-phone {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    color: #000000;
+}
+
+#hero-name {
+    margin-top: 52px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #291854;
+}
+
+#contact-button {
+    width: 138px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: #2F2F2F;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-top: 20px;
+
+
+}
+
+#skills {
+    display: flex;
+    flex:1;
+    padding:10px;
+    margin: 0 auto;
+    max-width: 1440px;
+}
+#alteration{
+    background: #FFFFFF;
+    margin: 0 10px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#frontend {
+    width: 33.33%; 
+}
+
+#title1{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    margin:0 auto;
+
+}
+#content{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #55206D;
+    /* width: 300px;
+    height: 216px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:0 auto;
+}
+#what-to-do-section{
+max-width:1060px;
+margin:0 auto;
+}
+#what-to-do{
+color: #2858FF;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 600;
+line-height: 18px;
+text-transform: uppercase;
+text-align: center;
+margin-bottom: 8px;
+margin:0 auto;
+
+}
+#main-text{
+font-family: League Spartan;
+font-size: 36px;
+font-weight: 700;
+text-align: center;
+color: #000000;
+margin:0 auto;
+max-width:700px;
+}
+#subtext{
+color: #190D37;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+max-width:700px;
+margin:8px auto 48px auto;
+}
+#footer{
+    width:100%;
+    margin-top: 48px;
+     padding:20px; 
+    font-family: Poppins;
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;;
+color: #FFFFFF;
+background-color: #000000;
+text-align: center;
+}
+#project{
+    margin:0 auto;
+    display:flex;
+    border-radius: 10px
+    padding: 30px;
+    margin-bottom:30px;
+}
+#project-logo1{
+    width:20%;
+background: #19ACFF;
+border-radius: 10px;
+
+}
+#project-details{
+    width:80%;
+    margin-left: 30px;
+}
+#project-name{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+text-align: left;
+margin:0 auto;
+}
+#project-content{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin:0 auto;
+margin-top: 10px;
+letter-spacing: 0em;
+
+
+line-height: 24px;
+
+
+}
+#project-logo2{
+    width:20%;
+background: #FFE819;
+border-radius: 10px;
+}
+#project-logo3{
+    width:20%;
+background: #FF1919;
+border-radius: 10px;
+}
+.align{
+ padding-top: 20px;
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+text-align: center;
+color: #FFFFFF;
+margin:0 auto;
+    
+}
+.aligns{
+    padding-top: 20px;
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+text-align: center;
+color: #000000;
+margin:0 auto;
+
+}
